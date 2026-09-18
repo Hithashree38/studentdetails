@@ -4,7 +4,7 @@ Technologies used:
 
 - C#
 - .NET
-- 
+
 Output:
 ID: 1 Name: Rahul Average Marks: 86.80 Grade: A
 ID: 2 Name: Ananya Average Marks: 76.60 Grade: B
